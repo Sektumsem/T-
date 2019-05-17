@@ -1,0 +1,20 @@
+body{/*TODO изменитье цвет фона на ваш любимый */
+  background-color:    #FFFFCC;
+  color: #000000
+}
+header{
+  background-color: white;
+  margin-left:20%;
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 300px;
+  border: solid 5px black;/*сделать весь текст желтым*/
+  border-radius: 100px;
+}
+header h1{
+  text-align: center;/*TODO заголовок установить слева */
+  padding:0.5cm;
+  letter-spacing:0.3cm;
+  font:bold 25px Georgia;
+}
+  
