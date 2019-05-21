@@ -10,6 +10,7 @@ header{
   height: 300px;
   border: solid 5px black;/*сделать весь текст желтым*/
   border-radius: 100px;
+  color: yellow;
 }
 header h1{
   text-align: center;/*TODO заголовок установить слева */
@@ -17,4 +18,3 @@ header h1{
   letter-spacing:0.3cm;
   font:bold 25px Georgia;
 }
-  
