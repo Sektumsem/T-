@@ -1,6 +1,6 @@
 ﻿body{/*TODO изменитье цвет фона на ваш любимый */
   background-color:    #b600ff;
-  color: white;
+  color: yellow;
 }
 header{
   background-color: white;
@@ -8,7 +8,7 @@ header{
   background-repeat: no-repeat;
   background-position: right;
   height: 300px;
-  border: solid 5px black;/*сделать весь текст желтым*/
+  border: solid 5px yellow;/*сделать весь текст желтым*/
   border-radius: 100px;
 }
 header h1{
