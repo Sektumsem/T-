@@ -5,7 +5,7 @@ pause = 0;
 var to;
 var bcount;
 var tcount;
-fun time(n) {
+function time(n) {
     tid=window.setTimeout("time(1)",to);
     today = new Date()
     if(today.getMinutes() < 10) pad = "0"
@@ -25,4 +25,4 @@ function start(x) {
 function cleartids() {
     window.clearTimeout(tid);
 }
-
+start(0);
