@@ -12,7 +12,7 @@ header{
   border-radius: 100px;
 }
 header h1{
-  text-align: center;/*TODO заголовок установить слева */
+  text-align: left;/*TODO заголовок установить слева */
   padding:0.5cm;
   letter-spacing:0.3cm;
   font:bold 25px Georgia;
